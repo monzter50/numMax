@@ -9,7 +9,7 @@ function numMax(x, y, z) {
       max = y;
     }
   }
-  return max;
+  console.log("max", max);
 }
 
 module.exports = numMax;
